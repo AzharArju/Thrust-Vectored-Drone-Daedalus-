@@ -11,3 +11,5 @@ Edf is 50 mm in diameter. The inlet was made custom to allow for fitment with th
 Using a 4s 1300 mah lipo to power the whole thing, have an external PDB that the battery is connected
 and powers the ESC. Powers the FC as well. Electronics have been validated using a custom PWM tester I made using an ESP32.
 Controls in ardupilot are still in testing phase, I have yet to make a test bench for the drone because it's about 12 inches long.
+
+STLs and Solidworks can be provided if asked for.
