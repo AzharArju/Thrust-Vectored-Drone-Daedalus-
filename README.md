@@ -13,3 +13,7 @@ and powers the ESC. Powers the FC as well. Electronics have been validated using
 Controls in ardupilot are still in testing phase, I have yet to make a test bench for the drone because it's about 12 inches long.
 
 STLs and Solidworks can be provided if asked for.
+
+Design Revisions:
+Had a previous project named Baby Ikarus that was a proto type for this. Had issues with battery placement and COM.
+Made battery vertical this time and have FC on the center axis for the COM. Servos are now directly controlling the vanes instead of having linkages.
